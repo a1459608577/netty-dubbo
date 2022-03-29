@@ -1,0 +1,2 @@
+random=com.ksn.loadbalance.rules.RandomLoadBalance
+poll=com.ksn.loadbalance.rules.PollLoadBalance
